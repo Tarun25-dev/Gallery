@@ -26,3 +26,39 @@ Beginner-friendly and easy to understand code
 HTML5  
 Tailwind CSS (CDN)  
 JavaScript  
+
+## 🚀 How to Run the Project
+
+1. Download or clone this repository  
+2. Open index.html in any modern browser  
+3. Click on any image to open the lightbox  
+
+No installation or setup required.
+
+---
+
+## 🖼️ Image Source
+
+Images are loaded from **Unsplash** using public image URLs.  
+You can replace them by editing the imagePaths array in the JavaScript section.
+
+---
+
+## 📌 Purpose
+
+Practice frontend development
+Learn masonry layouts
+Understand DOM manipulation
+Improve UI/UX basics
+
+---
+
+## 🙌 Contribution
+
+This is a beginner project, but contributions are welcome!
+
+1. Fork the repository  
+2. Make your changes  
+3. Create a pull request  
+
+---
