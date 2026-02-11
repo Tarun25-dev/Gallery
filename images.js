@@ -8,7 +8,8 @@ const imagePaths = [
             './images/img7.jpg',
             './images/img8.jpg',
             './images/img9.jpg',
-            './images/img10.jpg'
+            './images/img10.jpg',
             './images/img11.png',
             './images/img12.png'
         ];
+
