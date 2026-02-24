@@ -11,7 +11,8 @@ const imagePaths = [
             './images/img10.jpg',
             './images/img11.png',
             './images/img12.png',
-            './images/dream.png'
+            
         ];
+
 
 
